@@ -48,7 +48,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, lógica
 Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evolução na programação.
 
 | Projeto | Tecnologias |
-|---|---|---|
+|---|---|
 | 🔹 (https://vini21501-ctrl.github.io/lendaverso/) | HTML, CSS, JS |
 | 🔹 Projeto 02 | HTML, CSS, JS |
 
