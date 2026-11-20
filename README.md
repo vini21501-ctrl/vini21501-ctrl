@@ -50,7 +50,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evoluç�
 | Projeto | Tecnologias |
 |---|---|
 | 🔹 (https://vini21501-ctrl.github.io/lendaverso/) | HTML, CSS, JS |
-| 🔹 Projeto 02 | HTML, CSS, JS |
+| 🔹 https://github.com/vini21501-ctrl/Portifolio_VA | HTML, CSS, JS |
 
 **Confira meus repositórios:** [Acessar projetos](https://github.com/SEU-USUARIO?tab=repositories)
 
