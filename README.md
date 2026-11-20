@@ -69,10 +69,10 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evoluç�
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/vini21501-ctrl">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-alves-9835232b0/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=008CFF" />
   </a>
 </p>
