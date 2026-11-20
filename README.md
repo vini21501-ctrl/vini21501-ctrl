@@ -1,37 +1,88 @@
-##Eu sou um estudante de Engenharia de Software
+# 👨‍💻 Vinicius Alves
 
-💻 Atualmente, curso Engenharia de Software e estou direcionando meus estudos para o desenvolvimento Backend. Tenho interesse em programação, bancos de dados e criação de sistemas. Meu objetivo é desenvolver minhas habilidades técnicas, construir projetos e evoluir constantemente na área de tecnologia.
+### Desenvolvedor em formação | Estudante de Engenharia de Software
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F3F,100:007BFF&height=180&section=header&text=Vinicius%20Alves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-## 🚀 Tech Stack
-
-### 💻 Linguagens
-<img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
-### 🗄️ Banco de Dados
-<img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-### 🛠️ Ferramentas
-<img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="VS Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-
-## 📚 Atualmente estudando
-- Lógica de programação
-- Desenvolvimento Backend
-- Modelagem e gerenciamento de bancos de dados
-- Estruturação de sistemas
-
-## 🎯 Objetivos
-- Aprimorar meus conhecimentos em Backend.
-- Desenvolver projetos práticos.
-- Aprender novas linguagens e tecnologias.
-- Construir uma carreira na área de desenvolvimento de software.
-
-## 🔗 Contato e projetos
-
-- GitHub: https://github.com/SEU-USUARIO
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=008CFF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" />
+</p>
 
 ---
-⭐ *Sempre aprendendo, praticando e evoluindo na tecnologia!*
+
+## 🚀 Sobre mim
+
+Olá! Meu nome é **Vinicius Alves**, sou estudante de **Engenharia de Software** e estou construindo minha trajetória na área de desenvolvimento de software.
+
+Tenho interesse em tecnologia, programação e desenvolvimento de soluções que possam facilitar o dia a dia das pessoas.
+
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, lógica de programação e ferramentas utilizadas no desenvolvimento de software.
+
+🎯 **Meu objetivo:** evoluir como desenvolvedor, adquirir experiência prática e construir projetos cada vez melhores.
+
+---
+
+## 💻 Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Software.
+- Desenvolvimento Web.
+- Lógica de Programação.
+- Estrutura de Dados.
+- Desenvolvimento Backend.
+- Banco de Dados e SQL.
+
+---
+
+## 📂 Meus projetos
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evolução na programação.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🔹 Projeto 01 | Adicione aqui a descrição do projeto | HTML, CSS, JS |
+| 🔹 Projeto 02 | Adicione aqui a descrição do projeto | C |
+| 🔹 Projeto 03 | Adicione aqui a descrição do projeto | SQL |
+
+**Confira meus repositórios:** [Acessar projetos](https://github.com/SEU-USUARIO?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&title_color=008CFF&icon_color=008CFF&text_color=FFFFFF&bg_color=000000&border_color=007BFF&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&title_color=008CFF&text_color=FFFFFF&bg_color=000000&border_color=007BFF" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=008CFF" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:001F3F,100:000000&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <strong>💙 Transformando conhecimento em código, um projeto de cada vez.</strong>
+</p>
