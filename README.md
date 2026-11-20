@@ -47,21 +47,12 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, lógica
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evolução na programação.
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Tecnologias |
 |---|---|---|
 | 🔹 (https://vini21501-ctrl.github.io/lendaverso/) | HTML, CSS, JS |
-| 🔹 Projeto 02 | Adicione aqui a descrição do projeto | HTML, CSS, JS |
+| 🔹 Projeto 02 | HTML, CSS, JS |
 
 **Confira meus repositórios:** [Acessar projetos](https://github.com/SEU-USUARIO?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&title_color=008CFF&icon_color=008CFF&text_color=FFFFFF&bg_color=000000&border_color=007BFF&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&title_color=008CFF&text_color=FFFFFF&bg_color=000000&border_color=007BFF" />
-</p>
 
 ---
 
