@@ -49,9 +49,8 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos e minha evoluç�
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🔹 (https://vini21501-ctrl.github.io/lendaverso/) | Adicione aqui a descrição do projeto | HTML, CSS, JS |
-| 🔹 Projeto 02 | Adicione aqui a descrição do projeto | C |
-| 🔹 Projeto 03 | Adicione aqui a descrição do projeto | SQL |
+| 🔹 (https://vini21501-ctrl.github.io/lendaverso/) | HTML, CSS, JS |
+| 🔹 Projeto 02 | Adicione aqui a descrição do projeto | HTML, CSS, JS |
 
 **Confira meus repositórios:** [Acessar projetos](https://github.com/SEU-USUARIO?tab=repositories)
 
